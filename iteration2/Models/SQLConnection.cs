@@ -9,7 +9,8 @@ namespace iteration2.Models
 {
     public static class SQLConnection
     {
-        
+        public static string CONNECTION_STRING = "Server=tcp:safetychampion.database.windows.net,1433;Initial Catalog=iteration3;Persist Security Info=False;User ID= christina;Password= qiu@19940801;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        public static string DATABASE = "iteration3";
 
         //get all questions
         public static DataTable getQuestions()
