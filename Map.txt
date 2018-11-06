@@ -1,0 +1,29 @@
+Introduction: 
+
+1. This map shows number of injured or fatality in car accidents based on "Council Name", "Postcode", "Urban Degree", "Road class", "Severity" and "Year" in Victoria state. 
+
+2. The Victoria state was divided based on post codes.
+
+3. The color of post code areas implies level of the number of injured or fatality in this post code area. The deeper the color of a post code area is, the larger number of injured or fatality this area has.
+
+Instructions: 
+
+1. Zoom in and Zoom out: 
+1) Place mouse on the map, use scroll up to zoom in and scroll down to zoom out
+2) Click the “+” button and “-“ button at the left top corner;
+
+2. Return to Original Map: Click the home button at the left top corner;
+
+3. Search Information: Click the magnifying glass button at the left top corner and input keywords;
+
+4. Filter Information: Choose included information in filters at the right side of map. Only one value can be chosen in one filter;
+
+5. Include/Exclude Values: Click the drop town button at the right top corner of a filter to set the filter to include values or exclude values;
+
+6. Reset a Filter: Click the button with a red cross on a funnel located at the right top of this filter to clear this filter;
+
+7. Reset Filters: Click the “Reset Filters” button to clear all filters;
+
+8. Details Presentation: Place mouse on a post code area and the details of this post code area will be displayed;
+
+9. Keep only: Click on a post code area to choose keep only or exclude this area. Click blank area to give up this choice.

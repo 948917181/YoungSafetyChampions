@@ -1,0 +1,19 @@
+Introduction: 
+
+1. This visualization shows percentage of car crashes by “Day of Week”, “Light Condition”, “Road Shape” and “Speed Zone” in Victoria state. 
+
+
+Instructions: 
+
+1. Filter Information: Choose included information in filters at the right side of the visualization. Only one value can be chosen in one filter; 
+
+2. Include/Exclude Values: Click the drop town button at the right top corner of a filter to set the filter to include values or exclude values;
+
+3. Reset a Filter: Click the button with a red cross on a funnel located at the right top of this filter to clear this filter;
+
+4. Reset Filters: Click the “Reset Filters” button to clear all filters;
+
+5. Details Presentation: Place mouse on a sector and the details of this sector will be displayed;
+
+6. Keep only: Click on a sector to choose keep only or exclude this sector. Click blank area to give up this choice.
+

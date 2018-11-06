@@ -1,0 +1,21 @@
+Introduction: 
+
+1. This visualization shows number of injured or fatality in car accidents based on “Council Name”, “Postcode”, “Day of Week”, “Time Period”, “Light Condition”, “Road Shape” and “Speed Zone” in Victoria state. 
+
+2. The color of bubble implies level of the number of injured or fatality in this post code area.The deeper the color of a bubble is, the larger number of injured or fatality this post code area has.
+
+3. The size of bubble also implies level of the number of injured or fatality in this post code area. The larger a bubble is, the larger number of injured or fatality this post code area has.
+
+Instructions: 
+
+1. Filter Information: Choose included information in filters at the right side of the visualization. Only one value can be chosen in one filter; 
+
+2. Include/Exclude Values: Click the drop town button at the right top corner of a filter to set the filter to include values or exclude values;
+
+3. Reset a Filter: Click the button with a red cross on a funnel located at the right top of this filter to clear this filter;
+
+4. Reset Filters: Click the “Reset Filters” button to clear all filters;
+
+5. Details Presentation: Place mouse on a post code area and the details of this post code area will be displayed;
+
+6. Keep only: Click on a bubble to choose keep only or exclude this bubble. Click blank area to give up this choice.
